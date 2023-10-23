@@ -46,6 +46,11 @@ img {
 	height: auto;
 }
 
+img[src$="#avatar"] {
+	border-radius: 50%;
+	float: left;
+}
+
 header,
 main,
 footer {
