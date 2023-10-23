@@ -46,11 +46,6 @@ img {
 	height: auto;
 }
 
-img[src$="#avatar"] {
-	border-radius: 50%;
-	float: left;
-}
-
 header,
 main,
 footer {
@@ -200,3 +195,14 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+/* Home bio image styling */
+
+#homebio > p > img {
+	float:left;
+	padding-right: 10px;
+	border-radius: 50%;
+	max-width: 20%;
+	
+}
+
