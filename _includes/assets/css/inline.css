@@ -205,14 +205,17 @@ button {
 	}
 }
 
-/* Home bio image styling */
+/* One off image styling section*/
 
 img[src$="#avatar"] {
 	float:left;
 	padding-right: 10px;
-	padding-bottom: 10px;
 	border-radius: 50%;
 	max-width: 20%;
-	
 }
 
+img[src$="#salmonpic"] {
+	float:left;
+	padding-right: 30px;
+	max-width: 30%;
+}
