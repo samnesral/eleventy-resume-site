@@ -1,7 +1,7 @@
 ---
 title: Cedar Plank Salmon
 metaDescription: Salmon cooked on a cedar plank with honey, rosemary, lemon and whole grain mustard.
-date: 2023-10-22T17:00:00.000Z
+date: 2023-10-23T17:00:00.000Z
 author: Sam Larsen
 summary: Salmon cooked on a cedar plank with honey, rosemary, lemon and whole grain mustard.
 tags: [fish, recipe]
