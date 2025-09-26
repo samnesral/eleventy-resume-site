@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![picture of sam](/static/img/img_0839.jpeg#avatar)I'm Sam, a sales engineer at [Vanta](https://vanta.com/). You can find out more about my professional experience on my [LinkedIn](https://www.linkedin.com/in/samllarsen/). I love what I do because I get to help secure the internet and help business earn and prove trust.
+![picture of sam](/static/img/img_0839.jpeg#avatar)I'm Sam, a sales engineer at [Vanta](https://vanta.com/). You can find out more about my professional experience on my [LinkedIn](https://www.linkedin.com/in/samllarsen/). I love what I do because I get to help secure the internet and help businesses earn and prove trust.
 
 I'm also a very passionate home cook. I love to iterate on recipes to create the ultimate NY style pizza or pad thai.
 
